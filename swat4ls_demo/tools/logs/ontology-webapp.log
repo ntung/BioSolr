@@ -1,0 +1,3 @@
+DEBUG [2016-01-06 11:52:48,198] uk.co.flax.biosolr.ontology.search.solr.SolrDocumentSearch: Query: q=lung&start=0&rows=10&qt=%2FgroupedDocumentSearch&qf=title&qf=first_author&qf=publication&qf=efo_labels
+DEBUG [2016-01-06 11:52:54,059] uk.co.flax.biosolr.ontology.search.solr.SolrDocumentSearch: Query: q=cancer&start=0&rows=10&qt=%2FgroupedDocumentSearch&qf=title&qf=first_author&qf=publication&qf=efo_labels
+DEBUG [2016-01-06 11:53:00,480] uk.co.flax.biosolr.ontology.search.solr.SolrDocumentSearch: Query: q=lung+cancer&start=0&rows=10&qt=%2FgroupedDocumentSearch&qf=title&qf=first_author&qf=publication&qf=efo_labels
